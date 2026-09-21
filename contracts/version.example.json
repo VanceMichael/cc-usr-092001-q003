@@ -1,0 +1,13 @@
+{
+  "line_id": "LIN-000003",
+  "kind": "qc",
+  "payload": {
+    "limits": {
+      "pH": "5.0-7.0",
+      "microbial": "符合院内制剂通则"
+    }
+  },
+  "effective_from": "2026-10-01T00:00:00+08:00",
+  "required_signoffs": ["clinical", "pharmacy", "production"],
+  "note": "新版本必须引用线内上一版作为基线；三部门独立签署后方可晋级；生效日不晚于生产日的最新已晋级版本才会被新批次引用，旧批次不被追溯改写。"
+}

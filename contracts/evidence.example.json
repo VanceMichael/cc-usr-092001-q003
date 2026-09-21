@@ -1,0 +1,10 @@
+{
+  "event_id": "EVT-DEMO-0001",
+  "subject_ref": "SUBJ-ANON-DEMO",
+  "category": "lineage",
+  "summary": "某流派治疗湿阻证的用药经验摘要（示例，非真实记录）",
+  "controlled_ref": "his://lead-hospital/archive/0001",
+  "payload_digest": "sha256:2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae",
+  "occurred_at": "2026-09-19T09:30:00+08:00",
+  "source_sequence": 1
+}
